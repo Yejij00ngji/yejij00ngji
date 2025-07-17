@@ -1,4 +1,4 @@
-## 예지중지입니다 👋
+<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 
 <!--
 **Yejij00ngji/yejij00ngji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
