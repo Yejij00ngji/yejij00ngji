@@ -1,6 +1,5 @@
-<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&width=100%&height=200&section=header&text=capsule%20render&fontSize=40"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&width=100%&height=200&section=header&text=hello 👋 YEJI world 🫠&fontSize=40"
 </p>
 
 <!--
