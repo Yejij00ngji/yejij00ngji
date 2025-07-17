@@ -1,6 +1,6 @@
 <h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=capsule%20render&fontSize=40)
 
 <!--
 **Yejij00ngji/yejij00ngji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
